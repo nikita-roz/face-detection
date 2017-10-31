@@ -1,0 +1,8 @@
+Prerequ: Anaconda
+https://www.anaconda.com/download/
+
+
+Console/Terminal: conda env create -f AnacondaEnvironment.yml
+
+
+[If you can't download the packages, check/override the proxy settings]

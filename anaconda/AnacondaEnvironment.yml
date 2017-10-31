@@ -1,0 +1,34 @@
+name: sandbox
+channels:
+- menpo
+- defaults
+dependencies:
+- certifi=2016.2.28=py27_0
+- cycler=0.10.0=py27_0
+- functools32=3.2.3.2=py27_0
+- icu=57.1=vc9_0
+- jpeg=9b=vc9_0
+- libpng=1.6.30=vc9_1
+- matplotlib=2.0.2=np113py27_0
+- mkl=2017.0.3=0
+- numpy=1.13.1=py27_0
+- openssl=1.0.2l=vc9_0
+- pip=9.0.1=py27_1
+- pyparsing=2.2.0=py27_0
+- pyqt=5.6.0=py27_2
+- python=2.7.13=1
+- python-dateutil=2.6.1=py27_0
+- pytz=2017.2=py27_0
+- qt=5.6.2=vc9_6
+- setuptools=36.4.0=py27_0
+- sip=4.18=py27_0
+- six=1.10.0=py27_0
+- subprocess32=3.2.7=py27_0
+- tk=8.5.18=vc9_0
+- vs2008_runtime=9.00.30729.5054=0
+- wheel=0.29.0=py27_0
+- wincertstore=0.2=py27_0
+- zlib=1.2.11=vc9_0
+- opencv=2.4.11=py27_1
+prefix: C:\ProgramData\Anaconda3\envs\sandbox
+
